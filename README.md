@@ -4,7 +4,9 @@
 sales trend analysis using aggregations on online sales dataset.
 
 # Dataset Used:
-sales_data.csv uploded in zip file above 
+sales_data.csv from kaggle (uploded in zip file above) 
+#  Tools: MySQL 
+
 # steps with output
 Created database sales_data 
 imported dataset of sales_data.csv in table sales_ data.
